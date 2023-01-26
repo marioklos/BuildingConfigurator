@@ -13,7 +13,7 @@
 		},
 		{
 			"Name": "AlterMesh",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "GeometryScripting",
